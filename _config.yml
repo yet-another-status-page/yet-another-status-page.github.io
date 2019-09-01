@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 site:
   title: Yet Another Status Page
+site.title: Yet Another Status Page
